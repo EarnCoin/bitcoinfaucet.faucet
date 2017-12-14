@@ -1,2 +1,5 @@
-# bitcoinfaucet.faucet
-{"title":"bitcoinfaucet","cat":"Bitcoin","description":"60 mins 40 satoshi"}
+# bitcoinfaucet.tk
+##This site is scam
+###Never trust free domain!!
+source:https://www.scambitcoin.com/bitcoinfaucet-tk/
+
